@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Splash Sceen</string>
+    <string name="demo_text">This is the Main Activity!</string>
+    <string name="logo">LOGO</string>
+    <string name="application">Splash Screen</string>
+    <string name="github">github.com/Yogeshkumar04</string>
+</resources>
